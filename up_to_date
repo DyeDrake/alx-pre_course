@@ -1,0 +1,5 @@
+git config --list: shows system, global, and (if inside a repository) local configs.
+git config --list --show-origin: shows the origin file of each config item.
+git --version: shows the Git version you’re currently using.
+git config -l: shows the current configurations, including username.
+git config user.name: shows the username saved during configuration1
